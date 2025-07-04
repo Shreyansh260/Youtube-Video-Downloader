@@ -172,8 +172,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Shriyansh Singh Rathore**
 
 - 📧 Email: shreyanshsinghrathore7@gmail.com
-- 🌐 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 🌐 GitHub: [@Shreyansh260](https://github.com/Shreyansh260)
+- 💼 LinkedIn: [Shriyansh Singh Rathore]((https://www.linkedin.com/in/shriyansh-singh-rathore-1a0ba932a))
 
 ---
 
@@ -181,7 +181,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/universal-media-downloader/issues) page
+1. Check the [Issues](https://github.com/Shreyansh260/Youtube-Video-downloader/issues) page
 2. Create a new issue with detailed information
 3. Contact the author via email
 
