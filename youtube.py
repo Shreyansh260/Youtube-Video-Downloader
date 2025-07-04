@@ -1,5 +1,5 @@
 import streamlit as st
-import yt_dlp
+import yt-dlp
 import os
 import tempfile
 import shutil
