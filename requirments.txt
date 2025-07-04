@@ -1,2 +1,2 @@
-streamlit==1.46.1
-yt-dlp
+streamlit>=1.28.0
+yt-dlp>=2023.7.6
