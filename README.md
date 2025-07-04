@@ -40,7 +40,7 @@ Built using [`yt-dlp`](https://github.com/yt-dlp/yt-dlp), this tool allows users
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/universal-media-downloader.git
+git clone https://github.com/Shreyansh260/Youtube-Video-downloader.git
 cd universal-media-downloader
 ```
 
