@@ -15,7 +15,7 @@ import io
 # Page configuration
 st.set_page_config(
     page_title="Universal Media Downloader",
-    page_icon="📺",
+    page_icon="table-lamp.png",
     layout="wide",
     initial_sidebar_state="expanded"
 )
